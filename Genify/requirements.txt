@@ -1,0 +1,5 @@
+Flask==2.1.0
+Flask_RESTful==0.3.9
+numpy
+requests==2.22.0
+xgboost==0.90
